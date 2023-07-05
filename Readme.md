@@ -1,4 +1,5 @@
-JSAuth Server Documentation
+Login/SignUp Documentation
+
 JSAuth Server is an Express.js server that provides authentication APIs for user registration and login. It utilizes MongoDB as the database for storing user information.
 
 Installation
